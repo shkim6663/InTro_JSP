@@ -4,7 +4,11 @@ Servlet과 JSP를 함께 사용하여 사용자의 자기소개 정보를 처리
 **시연영상**
 
 
-https://github.com/user-attachments/assets/4f426076-b863-4158-8e5e-dbe9baae177e
+
+
+https://github.com/user-attachments/assets/9b5291c4-a687-4c71-9ea4-45f60d98b3d9
+
+
 
 
 
