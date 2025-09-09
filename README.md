@@ -6,7 +6,8 @@ Servlet과 JSP를 함께 사용하여 사용자의 자기소개 정보를 처리
 
 
 
-https://youtu.be/baiFXnXblgk
+[영상 보기](https://youtu.be/baiFXnXblgk)
+
 
 
 
